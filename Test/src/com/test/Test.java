@@ -6,7 +6,5 @@ public class Test {
 		System.out.println("Test World");
 		System.out.println("Test 2월 12일");
 		System.out.println("succes");
-	}
-
-
+	}
 }
